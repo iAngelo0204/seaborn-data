@@ -1,0 +1,7 @@
+﻿Producto  ; Tienda  ; Categoría   ; Venta
+Laptop    ; TiendaA ; Electrónica ; 100
+Televisor ; TiendaA ; Electrónica ; 200
+Camiseta  ; TiendaA ; Ropa        ; 50
+Laptop    ; TiendaB ; Electrónica ; 150
+Televisor ; TiendaB ; Electrónica ; 300
+Jeans     ; TiendaB ; Ropa        ; 100
